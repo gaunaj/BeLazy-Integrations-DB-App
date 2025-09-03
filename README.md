@@ -18,6 +18,7 @@ A simple, cross-platform desktop app to edit JSON files with a user-friendly int
 
 ## Requirements
 - Python 3.8+
+- Not supported by python 3.13
 - Install dependencies:
 
 ```
